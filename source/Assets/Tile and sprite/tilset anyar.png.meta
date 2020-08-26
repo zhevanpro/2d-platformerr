@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d86c38fe82565bf47a67c1ebb4e6fff8
+guid: 84ed78f58a8345f4e846d8599c430127
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -10,6 +10,15 @@ TextureImporter:
     second: tilset anyar_1
   - first:
       213: 6397686287153755708
+    second: tilset anyar_2
+  - first:
+      213: 474175993787916377
+    second: tilset anyar_0
+  - first:
+      213: 3932286849403606403
+    second: tilset anyar_1
+  - first:
+      213: 7438908892735692879
     second: tilset anyar_2
   - first:
       213: -1957056206609617129
@@ -619,7 +628,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: -1
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -630,7 +639,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 0
+  spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 16
@@ -701,8 +710,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1b0e5b8c2b2cc6620800000000000000
-      internalID: 2768801944053342385
+      spriteID: 9502fb6dd8c949600800000000000000
+      internalID: 474175993787916377
       vertices: []
       indices: 
       edges: []
@@ -722,8 +731,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5ac71c84a0e79cf90800000000000000
-      internalID: -6932871568724755291
+      spriteID: 38554ad2e0a429630800000000000000
+      internalID: 3932286849403606403
       vertices: []
       indices: 
       edges: []
@@ -743,8 +752,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c36ff2228c529c850800000000000000
-      internalID: 6397686287153755708
+      spriteID: f40610499305c3760800000000000000
+      internalID: 7438908892735692879
       vertices: []
       indices: 
       edges: []
