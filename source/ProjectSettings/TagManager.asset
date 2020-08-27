@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Player
+    uniqueID: 3749832771
+    locked: 0
+  - name: foreground
+    uniqueID: 1392784261
+    locked: 0
+  - name: rerumputan
+    uniqueID: 125035125
+    locked: 0
