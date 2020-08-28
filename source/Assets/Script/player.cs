@@ -7,6 +7,7 @@ public class player : MonoBehaviour
 {
     // Start is called before the first frame update
     Rigidbody2D myRigidBody;
+    [SerializeField] float runSpeed = 5f;
     void Start()
     {
         myRigidBody = GetComponent<Rigidbody2D>();
@@ -21,7 +22,7 @@ public class player : MonoBehaviour
     private void run()
     {
         float controlThrow = CrossPlatformInputManager.GetAxis("Horizontal");
-        Vector2 playerVelocity = new Vector2(controlThrow, myRigidBody.velocity.y);
+        Vector2 playerVelocity = new Vector2(controlThrow*runSpeed, myRigidBody.velocity.y);
         myRigidBody.velocity = playerVelocity;
     }
 }
