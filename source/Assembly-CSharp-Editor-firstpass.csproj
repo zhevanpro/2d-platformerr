@@ -642,6 +642,9 @@
     <Reference Include="Unity.Rider.Editor">
       <HintPath>Z:/2D platformer/source/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.2D.Tilemap.Editor">
+      <HintPath>Z:/2D platformer/source/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>Z:/2D platformer/source/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
